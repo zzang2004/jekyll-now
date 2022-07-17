@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-#### This blog for organizing content related to programming.
+This blog for organizing content related to programming.
 
 ### Contact me
 
