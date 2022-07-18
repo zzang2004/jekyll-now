@@ -1,0 +1,15 @@
+---
+layout: default
+---
+<ul class="catogory-list">
+{% for category in site.categories %}
+    <li>
+        <h3>
+            <a href="{{site.baseurl}}{{page.url}}{{category[0]}}" >
+                {{ category[0] }}
+            </a>
+        </h3>
+    </li>
+{% endfor %}
+
+</ul>
