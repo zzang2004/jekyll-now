@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Python "property"
+title: Property
 comments: true
 categories: [python]
 tags: [python]
