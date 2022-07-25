@@ -3,7 +3,7 @@ layout: post
 title: Permission
 comments: true
 categories: [django]
-tags: [django, python]
+tags: [django, authentication, python]
 ---
 
 DetailView에서 permission_classes에 has_object_permission을 구현한 permission class를 추가하면, View에 Detail HTTP Methods(GET(retrieve), PATCH, PUT, DELETE)에 
