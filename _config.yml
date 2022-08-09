@@ -39,9 +39,6 @@ disqus:
 # Enter your Google Analytics web tracking code (e.g. UA-2110908-2) to activate tracking
 google_analytics: G-CEHDNPVME6
 
-# For Google Search
-google_site_verification: OQtUR65U-GeQV3YEsNZL7m9W-g-ckcp5vzfHuUbLnFA
-
 # Your website URL (e.g. http://barryclark.github.io or http://www.barryclark.co)
 # Used for Sitemap.xml and your RSS feed
 url: zzang2004.github.io
